@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/539f70ce-62b0-40b0-9a10-42d9fba65968/resourceGroups/webapplicationresources/providers/Microsoft.Web/sites/text-to-speech-telugu",
+    "appService.deploySubpath": "build"
+}
